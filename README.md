@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkang87y&count_bg=%236D96DB&title_bg=%2300016C&icon=&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kang87y.code@gmail.com)](mailto:kang87y.code@gmail.com)
+[![mail Badge](https://img.shields.io/badge/email-%40-%23EA4335?style=flat-square&logoColor=white&link=mailto:contact@kang87y.com)](contact@kang87y.com)
 
 [![kang87y - stats](https://github-readme-stats.vercel.app/api?username=kang87y)](https://github.com/anuraghazra/github-readme-stats)
  
