@@ -1,7 +1,9 @@
 # Hi there 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkang87y&count_bg=%236D96DB&title_bg=%2300016C&icon=&icon_color=%23E7E7E7&title=visitor&edge_flat=true)](https://hits.seeyoufarm.com)
-[![mail Badge](https://img.shields.io/badge/email-%40-%23EA4335?style=flat-square)](mailto:contact@kang87y.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkang87y&count_bg=%235174C7&title_bg=%231D47A9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+## Contact
+- Email : [contact@kang87y.com](mailto:contact@kang87y.com)
  
 ## Tech
 ![cpp](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -18,4 +20,4 @@
 ![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Stats
-[![kang87y - stats](https://github-readme-stats.vercel.app/api?username=kang87y)](https://github.com/anuraghazra/github-readme-stats)
+[![kang87y - stats](https://github-readme-stats.vercel.app/api?username=kang87y&show_icons=true&include_all_commits=true&line_height=25&count_private=true&bg_color=30,5174C7,1D47A9&title_color=fff&text_color=fff&theme=nord&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
