@@ -12,12 +12,10 @@
         <img height="50px" src="./image/widgets/cpp.png"></img>
         <img height="50px" src="./image/widgets/js.png"></img>
         <img height="50px" src="./image/widgets/ts.png"></img>
-    <p>
     </p>
+    <p>
         <img height="50px" src="./image/widgets/py.png"></img>
         <img height="50px" src="./image/widgets/dart.png"></img>
         <img height="50px" src="./image/widgets/kotlin.png"></img>
     </p>
 </p>
-
-[![Website](./image/widgets/website.png | height=50px)](https://kang87y.com)
